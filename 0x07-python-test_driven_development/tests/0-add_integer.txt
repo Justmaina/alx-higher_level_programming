@@ -24,7 +24,7 @@ Numbers
 	floats
 	-------
 	>>> add_integer(5.6, 2.7)
-	7
+	7OA
 	>>> add_integer(-2.3, 1.9)
 	-1
 
