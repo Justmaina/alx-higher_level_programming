@@ -7,10 +7,11 @@ and then save them to a file.
 import sys
 import json
 import os.path
+"""impoorts the modules to be used the new class"""
 
 save_to_json_file = __import__("7-save_to_json_file").save_to_json_file
 load_from_json_file = __import__("8-load_from_json_file").load_from_json_file
-
+"""creatin a copy of the file and initializes new list"""
 my_file = 'add_item.json'
 
 my_list = []
